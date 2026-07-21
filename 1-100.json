@@ -1,0 +1,5661 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which word in brackets is most opposite to the word in capitals? PROSCRIBE (allow, stifle, promote, verify, indict)",
+      "options": ["allow", "stifle", "promote", "verify", "indict"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 2,
+      "text": "0,1,2,4,6,9,12,16,? What number should replace the question mark?",
+      "options": ["18", "20", "22", "24", "25"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.85,
+        "7": 0.75,
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 3,
+      "text": "Which number is the odd one out? 9678 4572 5261 5133 3527 6895 7768",
+      "options": ["9678", "4572", "5261", "5133", "3527", "6895", "7768"],
+      "correct": 3,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 4,
+      "text": "Isotherm is to temperature as isobar is to: atmosphere, wind, pressure, latitude, current",
+      "options": ["atmosphere", "wind", "pressure", "latitude", "current"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 5,
+      "text": "Which is the missing section? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "5.png",
+      "mandatory": true
+    },
+    {
+      "id": 6,
+      "text": "Which is the odd one out? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "6.png",
+      "mandatory": true
+    },
+    {
+      "id": 7,
+      "text": "GRAM (energy, weight, scales) KNOT (water, rope, speed)",
+      "options": [
+        "energy, water",
+        "weight, rope",
+        "scales, speed",
+        "energy, speed",
+        "weight, water"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 8,
+      "text": "Number pyramid",
+      "options": [
+        "7, 3, 5, 2, 9, 7, 16, 12, 12, 19, 28, 28, 56, 47, 103",
+        "8, 4, 6, 3, 10, 8, 17, 13, 13, 20, 29, 29, 57, 48, 104",
+        "6, 2, 4, 1, 8, 6, 15, 11, 11, 18, 27, 27, 55, 46, 102",
+        "7, 3, 5, 2, 9, 7, 15, 12, 12, 19, 28, 27, 56, 47, 103"
+      ],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "8.png",
+      "mandatory": true
+    },
+    {
+      "id": 9,
+      "text": "Odd one out",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "9.png",
+      "mandatory": true
+    },
+    {
+      "id": 10,
+      "text": "How many minutes is it before 12 noon, if 48 minutes ago it was twice as many minutes past 9 am?",
+      "options": ["44", "48", "52", "56", "60"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 11,
+      "text": "Word completion cycle",
+      "options": ["SHIVER, EROTIC, ICICLE, LENGTH, THRASH"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 12,
+      "text": "Which is the odd one out? heptagon, triangle, hexagon, cube, pentagon",
+      "options": ["heptagon", "triangle", "hexagon", "cube", "pentagon"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 13,
+      "text": "Switches puzzle,\nSwitch A turns lights 1 and 2 on/off or off/on,\nSwitch B turns lights 2 and 4 on/off or off/on,\nSwitch C turns lights 1 and 3 on/off or off/on,\nSwitches C, A and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all?",
+      "options": ["Switch A", "Switch B", "Switch C"],
+      "correct": 0,
+      "dimension": "Logical Reasoning",
+      "concept-taught": "10",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "13.png",
+      "mandatory": true
+    },
+    {
+      "id": 14,
+      "text": "Which is the missing tile?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "14.png",
+      "mandatory": true
+    },
+    {
+      "id": 15,
+      "text": "BRUNT closest meaning",
+      "options": ["dull", "edifice", "impact", "tawny", "nonsense"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 16,
+      "text": "Anagram food",
+      "options": [
+        "PAST EIGHT",
+        "I CAN ROAM",
+        "WIN BOAR",
+        "CAN PEAK",
+        "COOL CHEAT"
+      ],
+      "correct": 2,
+      "dimension": "Language Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 17,
+      "text": "What number should replace the question mark?",
+      "options": ["4", "6", "8", "12"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "17.png",
+      "mandatory": true
+    },
+    {
+      "id": 18,
+      "text": "Work from square to adjacent square horizontally or vertically (but not diagonally) to spell out a 12-letter word. You must find the starting point, and providethe missing letters",
+      "options": [
+        "PROFESSIONAL",
+        "PROGRESSIONAL",
+        "PROFESSIONER",
+        "PROFESSIONALS"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "18.png",
+      "mandatory": true
+    },
+    {
+      "id": 19,
+      "text": "How many lines appear below?",
+      "options": ["10", "11", "12", "13", "14"],
+      "correct": 2,
+      "dimension": "Perceptual Aptitude",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.95,
+        "7": 0.75,
+        "8": 0.55,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.03
+      },
+      "image": "19.png",
+      "mandatory": true
+    },
+    {
+      "id": 20,
+      "text": "Which is the missing tile?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "20.png",
+      "mandatory": true
+    },
+    {
+      "id": 21,
+      "text": "What number should replace the question mark?",
+      "options": ["5 1/16", "5 3/16", "5 5/16", "5 7/16", "5 9/16"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "21.png",
+      "mandatory": true
+    },
+    {
+      "id": 22,
+      "text": "Work clockwise round the circles to spell out two eight-letter words that are synonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
+      "options": [
+        "Linguist, Polyglot",
+        "Linguist, Translator",
+        "Interpreter, Polyglot",
+        "Lexicographer, Polyglot"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "22.png",
+      "mandatory": true
+    },
+    {
+      "id": 23,
+      "text": "10, 30, 32, 96, 98, 294, 296,?,?,\nWhat two numbers should replace the question marks?",
+      "options": ["888, 890", "890, 892", "892, 894", "894, 896", "896, 898"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.85,
+        "7": 0.75,
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 24,
+      "text": "able, rot, son, king\nWhich word below shares a common feature with all the words above?\nline, sit, take, hope, night",
+      "options": ["line", "sit", "take", "hope", "night"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 25,
+      "text": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way.\nSEA (wet, swimmer, ship)\nSNOW (mountain, ice, skier)",
+      "options": [
+        "wet, mountain",
+        "swimmer, skier",
+        "ship, ice",
+        "wet, skier",
+        "swimmer, ice"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 26,
+      "text": "Which word meaning LOCALITY becomes a word meaning TEMPO when a letter is removed?",
+      "options": ["place/pace", "plate/rate", "plain/plan", "plank/plan"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 27,
+      "text": "Alf has four times as many as Jim, and Jim has three times as many as Sid.\nAltogether they have 192.\nHow many has each?",
+      "options": [
+        "Alf 144, Jim 36, Sid 12",
+        "Alf 128, Jim 48, Sid 16",
+        "Alf 160, Jim 32, Sid 10",
+        "Alf 120, Jim 40, Sid 32"
+      ],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "10",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 28,
+      "text": "Which is the only one of the following that is not an anagram of a word meaningout of this world?",
+      "options": ["flow under", "sexed Utah", "enviable blue", "icier blend"],
+      "correct": 1,
+      "dimension": "Language Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 29,
+      "text": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 per cent certain he has a pair of black socks?",
+      "options": ["38", "39", "40", "41", "42"],
+      "correct": 2,
+      "dimension": "Logical Reasoning",
+      "concept-taught": "10",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 30,
+      "text": "Draw the missing figure in the above sequence",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "30.png",
+      "mandatory": true
+    },
+    {
+      "id": 31,
+      "text": "How many minutes is it before 12 noon if nine minutes ago it was twice as many minutes past 10 am?",
+      "options": ["37", "38", "39", "40", "41"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 32,
+      "text": "Which two words are closest in meaning?\nconclave, medley, theme, conglomeration, dissertation, augury",
+      "options": [
+        "conclude, augury",
+        "medley, conglomeration",
+        "theme, dissertation",
+        "medley, theme",
+        "conclude, dissertation"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 33,
+      "text": "broke rage prose cute dared ?\nWhich word is missing?\npalm hymn evil snow take",
+      "options": ["palm", "hymn", "evil", "snow", "take"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 34,
+      "text": "Five consecutive numbers total 22\n7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5",
+      "options": ["93541", "93754", "93465", "94365", "93765"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 35,
+      "text": "To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon above?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 3,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "35.png",
+      "mandatory": true
+    },
+    {
+      "id": 36,
+      "text": "Find two words (4, 6) in this diagram. Letters are traced across the circle by chords. If the next letter is four letters or less away it will be found by tracing around the circumference. Clue: free flight.",
+      "options": [
+        "Hand Glider",
+        "Hot Air Balloon",
+        "Jet Aircraft",
+        "Helicopter"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "36.png",
+      "mandatory": true
+    },
+    {
+      "id": 37,
+      "text": "What letter is directly opposite the letter that is two letters away clockwise from the letter that is directly opposite the letter E?",
+      "options": ["G", "H", "I", "J", "K"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "37.png",
+      "mandatory": true
+    },
+    {
+      "id": 38,
+      "text": "What number should replace the question mark?",
+      "options": ["1", "0", "8", "3"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "38.png",
+      "mandatory": true
+    },
+    {
+      "id": 39,
+      "text": "Which is the missing section?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "39.png",
+      "mandatory": true
+    },
+    {
+      "id": 40,
+      "text": "What comes next",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "40.png",
+      "mandatory": true
+    },
+    {
+      "id": 41,
+      "text": "Which four-letter word, when placed in the brackets, will complete a word on the left and start another word on the right? RAM (****) RIDGE",
+      "options": ["part", "plea", "port", "pelt", "pert"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 42,
+      "text": "Which is the missing section?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "42.png",
+      "mandatory": true
+    },
+    {
+      "id": 43,
+      "text": "ligno- is to wood as vitro- is to wool, glass, stone, water, paper?",
+      "options": ["wool", "glass", "stone", "water", "paper"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 44,
+      "text": "What number should replace the question mark?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "44.png",
+      "mandatory": true
+    },
+    {
+      "id": 45,
+      "text": "Solve the anagrams to find a well-known saying. The number of letters in each word is shown.\n(**** ** ********)(**** *******)\n(asserting craft)(hint of antic)",
+      "options": [
+        "Fact is stranger than fiction",
+        "Truth is stronger than fiction",
+        "Facts are stranger than stories",
+        "Fiction is stranger than fact"
+      ],
+      "correct": 0,
+      "dimension": "Language Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 46,
+      "text": "Image analogy",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "46.png",
+      "mandatory": true
+    },
+    {
+      "id": 47,
+      "text": "0, 4, 2, 6, 3, 7, 3.5, ?\nWhat number should replace the question mark?",
+      "options": ["7.5", "8", "8.5", "9", "9.5"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.85,
+        "7": 0.75,
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 48,
+      "text": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way.\nLONGITUDE (degree, tropics, meridian)\nLATITUDE (parallel, line, equinox)",
+      "options": [
+        "degree, parallel",
+        "meridian, parallel",
+        "tropics, equinox",
+        "meridian, line",
+        "degree, equinox"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 49,
+      "text": "Which is the missing section?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "49.png",
+      "mandatory": true
+    },
+    {
+      "id": 50,
+      "text": "Which word in brackets is closest in meaning to the word in capitals?\nMONITOR (observe, order, meddle, intrude, conclude)",
+      "options": ["observe", "order", "meddle", "intrude", "conclude"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 51,
+      "text": "Looking at lines across and down, if the first two tiles are combined to produce the third tile, with the exception that like symbols are cancelled out, which of the above tiles is incorrect, and with which of the tiles below should it be replaced?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.95,
+        "7": 0.75,
+        "8": 0.55,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "51.png",
+      "mandatory": true
+    },
+    {
+      "id": 52,
+      "text": "Which two words are most opposite in meaning?\nliberty, frivolity, chastity, sobriety, irrationality, polarity",
+      "options": [
+        "liberty, sobriety",
+        "frivolity, sobriety",
+        "chastity, irrationality",
+        "liberty, polarity",
+        "frivolity, chastity"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 53,
+      "text": "Insert four weights of 2 units, 3 units, 4 units and 6 units respectively so that the scales balance perfectly.",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Mechanical Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "53.png",
+      "mandatory": true
+    },
+    {
+      "id": 54,
+      "text": "The following clue leads to which pair of rhyming words?\nmeasure bulk of grass fodder",
+      "options": [
+        "weigh hay",
+        "heavy hay",
+        "great hay",
+        "much hay",
+        "more hay"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 55,
+      "text": "When the above is folded to form a cube, which is the only one of the following that can be produced?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "55.png",
+      "mandatory": true
+    },
+    {
+      "id": 56,
+      "text": "Which is the odd one out?\nfemur, mandible, fibula, tibia, patella",
+      "options": ["femur", "mandible", "fibula", "tibia", "patella"],
+      "correct": 1,
+      "dimension": "General Knowledge",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 57,
+      "text": "My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows the time as 2.52 pm.\nWhat time is it now?",
+      "options": ["9 pm", "10 pm", "11 pm", "8 pm", "7 pm"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 58,
+      "text": "Insert all the letters of the phrase UNSPOILT LOCAL into the remaining blank spaces once each only, to produce two words that form a phrase. Clue: things are not always what they appear.",
+      "options": [
+        "Optical Illusion ",
+        "Visual Deception",
+        "Hidden Meaning",
+        "False Appearance"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "58.png",
+      "mandatory": true
+    },
+    {
+      "id": 59,
+      "text": "Which is the missing tile?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "59.png",
+      "mandatory": true
+    },
+    {
+      "id": 60,
+      "text": "What comes next",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "60.png",
+      "mandatory": true
+    },
+    {
+      "id": 61,
+      "text": "dopiness, uncloaking, dishwasher\nWhich word below has a feature in common with all the words above?\ngallant, crossfire, whirlwind, assault",
+      "options": ["gallant", "crossfire", "whirlwind", "assault"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 62,
+      "text": "1, 101, 15, 4, 29, –93, 43, –190, ?\nWhat number should replace the question mark?",
+      "options": ["57", "59", "61", "63", "65"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.85,
+        "7": 0.75,
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 63,
+      "text": "What letter is two letters above the letter two letters to the left of the letter immediately above the letter three letters to the right of the letter Q?",
+      "options": ["C", "D", "E", "F", "G"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 64,
+      "text": "15, 5, 8, 24, 21, 7, 10, 30, ?, ?, ?, 36, 33\nWhat three numbers are missing?",
+      "options": [
+        "27, 9, 12",
+        "27, 9, 13",
+        "25, 9, 12",
+        "27, 10, 12",
+        "26, 9, 12"
+      ],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.85,
+        "7": 0.75,
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 65,
+      "text": "Which shield below has most in common with the shield above?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 3,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "65.png",
+      "mandatory": true
+    },
+    {
+      "id": 66,
+      "text": "Using the four letters below only, create a seven-letter word.\nUMNI",
+      "options": ["minimum", "minimun", "munimum", "minimuim"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 67,
+      "text": "What number should replace the question mark?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "67.png",
+      "mandatory": true
+    },
+    {
+      "id": 68,
+      "text": "Switch A turns lights 1 and 2 on/off or off/on\nSwitch B turns lights 2 and 4 on/off or off/on\nSwitch C turns lights 1 and 3 on/off or off/on\nSwitch D turns lights 3 and 4 on/off or off/on\nSwitches D, C, A and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Logical Reasoning",
+      "concept-taught": "10",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "68.png",
+      "mandatory": true
+    },
+    {
+      "id": 69,
+      "text": " Which word in brackets is closest in meaning to the word in capitals?\nFUSE (muzzle, explode, coalesce, immobilize, tighten)",
+      "options": ["muzzle", "explode", "coalesce", "immobilize", "tighten"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 70,
+      "text": "What number should replace the question mark?",
+      "options": ["7", "9", "17", "13"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "70.png",
+      "mandatory": true
+    },
+    {
+      "id": 71,
+      "text": "To which hexagon below can a dot be added so that it then meets the same conditions as in the hexagon above?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "71.png",
+      "mandatory": true
+    },
+    {
+      "id": 72,
+      "text": "You have 59 cubic blocks. What is the minimum number that needs to be taken away in order to construct a solid cube with none left over?",
+      "options": ["30", "31", "32", "33", "34"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 73,
+      "text": "What word meaning DEDUCE becomes a word meaning PROPEL when a letter is removed?",
+      "options": [
+        "derive/drive",
+        "deduce/drive",
+        "derive/dirve",
+        "deduce/derve"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 74,
+      "text": "What number should replace the question mark?",
+      "options": ["76", "49", "91", "39"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "74.png",
+      "mandatory": true
+    },
+    {
+      "id": 75,
+      "text": "What is the longest word in the English language that can be produced from the set of letters below? Letters may only be used once in the word produced.\nFEUMOPXCTW",
+      "options": ["Compute", "Computex", "Outcome", "Computee"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 76,
+      "text": "Which is the missing section?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "76.png",
+      "mandatory": true
+    },
+    {
+      "id": 77,
+      "text": "Work clockwise round the circles to spell out two eight-letter words that are antonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive.",
+      "options": [
+        "Medicore, Superior",
+        "Superior, Inferior",
+        "Increase, Decrease",
+        "Proceed, Recede",
+        "External, Internal"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "77.png",
+      "mandatory": true
+    },
+    {
+      "id": 78,
+      "text": "What number should replace the question mark?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 3,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "78.png",
+      "mandatory": true
+    },
+    {
+      "id": 79,
+      "text": "When the above is folded to form a cube, which is the only one of the following that can be produced?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "79.png",
+      "mandatory": true
+    },
+    {
+      "id": 80,
+      "text": "Which is the odd one out?\ncymbal, marimba, vibraphone, trombone, glockenspiel",
+      "options": [
+        "cymbal",
+        "marimba",
+        "vibraphone",
+        "trombone",
+        "glockenspiel"
+      ],
+      "correct": 3,
+      "dimension": "General Knowledge",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 81,
+      "text": "Choose the option in which the words are correctly matched with their definitions.\nDefinitions:\n1.Head of school\n2.Fundamental truth\n3.Standing still\n4.Writing materials\n5.Smaller in amount\n6.Smaller in number",
+      "options": [
+        "Principal, Principle, Stationary, Stationery, Less, Fewer",
+        "Principle, Principal, Stationery, Stationary, Fewer, Less",
+        "Principal, Stationery, Stationary, Principle, Less, Fewer",
+        "Principal, Principle, Stationery, Stationary, Less, Fewer"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 82,
+      "text": "Which is the odd number out?\n462 683 385 198 253 781 594",
+      "options": ["462", "683", "385", "198", "253", "781", "594"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 83,
+      "text": "PURE AS TUFT is an anagram of which two words that are opposite in meaning?",
+      "options": [
+        "PAST, FUTURE",
+        "FAST, FUTURE",
+        "PAST, FUGUE",
+        "PAST, FUTILE"
+      ],
+      "correct": 0,
+      "dimension": "Language Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 84,
+      "text": "Which letter is midway between the letter two letters below the letter immediately to the left of the letter G, and the letter three letters above the letter immediately to the right of the letter V?",
+      "options": ["L", "M", "N", "O", "P"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 85,
+      "text": "Complete two eight-letter words, one in each circle, and both reading clockwise. The words are synonyms. You must find the starting points and provide the missing letters.",
+      "options": [
+        "Escalate, Heighten",
+        "Estimate, Strengthen",
+        "Elevation, Highness",
+        "Celebrate, Happiness"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "85.png",
+      "mandatory": true
+    },
+    {
+      "id": 86,
+      "text": "1, 50, 6, 45, 11, 40, 16, 35, 21, ?, ?\nWhich numbers should replace the question marks?",
+      "options": ["30, 26", "30, 25", "29, 26", "30, 27", "28, 26"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.85,
+        "7": 0.75,
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 87,
+      "text": "Arrange the words below into alphabetical order.\nacescence, acetamide, acerbated, acetified, acellular, acescency,acetabula, acerbates",
+      "options": [
+        " acescence, acescency, acellular, acerbated, acerbates, acetabula, acetamide, acetified ",
+        " acescence, acescency, acerbated, acellular, acerbates, acetabula, acetamide, acetified",
+        " acellular, acescence, acescency, acerbated, acerbates, acetamide, acetabula, acetified",
+        "acescence, acescency, acellular, acerbates, acerbated, acetified, acetabula, acetamide"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "6",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 88,
+      "text": "When the above is folded to form a cube, which is the only one of the following that can be produced?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "88.png",
+      "mandatory": true
+    },
+    {
+      "id": 89,
+      "text": "Which is the missing section?",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "89.png",
+      "mandatory": true
+    },
+    {
+      "id": 90,
+      "text": " Solve the anagram in brackets to correctly complete the quotation with a 10-letter word.\n‘The difference between golf and (torn veg men) is that in golf you cannot improve your lie’ George Deukmejian",
+      "options": [" Government", " Governess", " Governing", " Governance"],
+      "correct": 0,
+      "dimension": "Language Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 91,
+      "text": "Which shield should replace the question mark?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "91.png",
+      "mandatory": true
+    },
+    {
+      "id": 92,
+      "text": "Take one letter from each circle in turn and using each letter once only find two eight-letter words that are similar in meaning. Both words read clockwise and each starts in a different circle.",
+      "options": [
+        " Pamphlet, Brochure",
+        " Magazine, Newspaper",
+        " Circular, Catalogue",
+        " Prospectus, Handbook"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.97,
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "92.png",
+      "mandatory": true
+    },
+    {
+      "id": 93,
+      "text": " What letters should replace the question marks?",
+      "options": ["VHU", "VUH", "HVU", "UVH"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "93.png",
+      "mandatory": true
+    },
+    {
+      "id": 94,
+      "text": "What number should replace the question mark?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "8",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.85,
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "94.png",
+      "mandatory": true
+    },
+    {
+      "id": 95,
+      "text": "bizarre is to outlandish as eccentric is to: eerie, quirky, esoteric, weird, curious",
+      "options": ["eerie", "quirky", "esoteric", "weird", "curious"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 96,
+      "text": " On taking delivery of a consignment of eggs the market stall owner was furious to find that several were cracked. In fact, on counting them up in order to assess the damage he found that 72 were cracked, which was 12 per cent of the total consignment. How many eggs in total were in the consignment?",
+      "options": ["500", "600", "700", "800", "900"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.95,
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 97,
+      "text": "Which is the missing tile?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.8,
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "97.png",
+      "mandatory": true
+    },
+    {
+      "id": 98,
+      "text": "MTD is to PXB as FRJ is to?",
+      "options": ["IVG", "IUG", "JUH", "IVH", "IUH"],
+      "correct": 3,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 99,
+      "text": "A B C D E F G H\nWhat letter is two letters to the left of the letter immediately to the right of the letter three letters to the right of the letter A?",
+      "options": ["C", "D", "E", "F", "G"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "9",
+      "difficulty": {
+        "6": 0.99,
+        "7": 0.9,
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": true
+    },
+    {
+      "id": 100,
+      "text": "Which circle below should be placed in the large circle above?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "7",
+      "difficulty": {
+        "6": 0.8,
+        "7": 0.65,
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "100.png",
+      "mandatory": true
+    },
+    {
+      "id": 101,
+      "text": "Using the five letters below only, create a nine- letter word. LOPER",
+      "options": ["Propeller", "Repolling", "Pollerone", "Reproller"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 102,
+      "text": "16, 23, 19, 19, 22, 15, 25, ? \nWhat number should replace the question mark?",
+      "options": ["11", "18", "12", "20"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 103,
+      "text": "Simplify: As the lowest fraction.",
+      "options": ["14/55"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "103.png",
+      "mandatory": false
+    },
+    {
+      "id": 104,
+      "text": "Which is the missing box?",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "104.png",
+      "mandatory": false
+    },
+    {
+      "id": 105,
+      "text": "Which word in brackets is most opposite in meaning to the word in capitals? PLAUSIBLE ",
+      "options": [
+        "appropriate",
+        "improbable",
+        "clichéd",
+        "artificial",
+        "distasteful"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 106,
+      "text": "The cost of an identical three- course lunch for four people was £56.00. The main course cost twice as much as the sweet and the sweet cost twice as much as the starter. How much did the main course cost per person?",
+      "options": ["£4.00", "£6.00", "£8.00", "£10.00", "£12.00"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 107,
+      "text": "aplomb, dodge, graph, jerk, ? \nWhat comes next?\n laugh, maroon, link, nickel, midnight",
+      "options": ["laugh", "maroon", "link", "nickel", "midnight"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 108,
+      "text": "What comes next?",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "108.png",
+      "mandatory": false
+    },
+    {
+      "id": 109,
+      "text": "OVATE GNOME is an anagram of which familiar phrase (3, 1, 4, 2)?\n Clue: make haste.",
+      "options": [
+        "GET A MOVE ON",
+        "GET ME A VON",
+        "GO AT EVEN MO",
+        "ONE TO GAME V"
+      ],
+      "correct": 0,
+      "dimension": "Language Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 110,
+      "text": "What number should replace the question mark? ",
+      "options": ["19", "21", "12", "25"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "110.png",
+      "mandatory": false
+    },
+    {
+      "id": 111,
+      "text": "Find the starting point and work from letter to adjacent letter vertically, horizontally and diagonally to spell out a 17- letter phrase (2, 7, 8).",
+      "options": [
+        "NO STRINGS ATTACHED",
+        "IN SEARCH OF TREASURE",
+        "AT STROKE OF MIDNIGHT",
+        "TO CHANGE DIRECTION"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "111.png",
+      "mandatory": false
+    },
+    {
+      "id": 112,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "112.png",
+      "mandatory": false
+    },
+    {
+      "id": 113,
+      "text": "At each stage the black dot moves three corners clockwise and the white dot moves four corners anticlockwise. After how many stages will both dots be together in the same corner?",
+      "options": ["Never", "1", "2", "3", "4"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "113.png",
+      "mandatory": false
+    },
+    {
+      "id": 114,
+      "text": "The name of which reptile can be placed on the bottom row to complete nine three- letter words reading downwards? ",
+      "options": ["CHAMELEON", "CROCODILE", "RATTLESNAKE", "ALLIGATOR"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": "114.png",
+      "mandatory": false
+    },
+    {
+      "id": 115,
+      "text": "What numbers should replace the question marks? ",
+      "options": ["18, 36, 15", "15, 36, 18", "21, 42, 18", "18, 30, 15"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "115.png",
+      "mandatory": false
+    },
+    {
+      "id": 116,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "116.png",
+      "mandatory": false
+    },
+    {
+      "id": 117,
+      "text": "100, 97.4, 94.8, ?, 89.6, 87 \nWhat number should replace the question mark?",
+      "options": ["92.2", "92.4", "92.6", "92.8", "93.0"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 118,
+      "text": "Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine- letter word. You must provide the missing letters. ",
+      "options": ["DISAPPEAR", "DISPLEASE", "DISPLAYED", "DISCHARGE"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "118.png",
+      "mandatory": false
+    },
+    {
+      "id": 119,
+      "text": "Which number is the odd one out? 9654 4832 5945 7642 7963 8216 3649",
+      "options": ["9654", "4832", "5945", "7642", "7963", "8216", "3649"],
+      "correct": 6,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 120,
+      "text": "Which two words are closest in meaning? qualified, practicable, puissant, feasible, mundane, fine",
+      "options": [
+        "PRACTICABLE AND FEASIBLE",
+        "QUALIFIED AND FINE",
+        "PUISSANT AND MUNDANE",
+        "QUALIFIED AND PUISSANT"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 121,
+      "text": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way.\n FIRST (second, next, last) \nPENULTIMATE (last, third, previous)",
+      "options": [
+        "SECOND AND LAST",
+        "NEXT AND PREVIOUS",
+        "LAST AND THIRD",
+        "SECOND AND PREVIOUS"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 122,
+      "text": "Find five consecutive numbers below that total 23. 629347293264912",
+      "options": ["7 2 9 3 2", "6 2 9 3 4", "2 9 3 2 6", "3 2 6 4 9"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 123,
+      "text": "Draw the missing figure in the above sequence. ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "123.png",
+      "mandatory": false
+    },
+    {
+      "id": 124,
+      "text": "Which word in brackets is most opposite to the word in capitals? SLEEK ",
+      "options": [
+        "sordid",
+        "unimaginative",
+        "disorderly",
+        "dishevelled",
+        "oblique"
+      ],
+      "correct": 3,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 125,
+      "text": "What number should replace the question mark? ",
+      "options": ["1417", "1414", "1714", "1421"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "125.png",
+      "mandatory": false
+    },
+    {
+      "id": 126,
+      "text": "Change one letter only in each of the words below to produce a familiar phrase. AND FEEL SO TIE WIRE",
+      "options": [
+        "ADD FOOL TO THE FIRE",
+        "ADD FUEL TO THE WIRE",
+        "ADD FUEL TO THE FIRE",
+        "AND FUEL TO THE FIRE"
+      ],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 127,
+      "text": "Which is the odd one out? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "127.png",
+      "mandatory": false
+    },
+    {
+      "id": 128,
+      "text": "Which is the odd one out?\n trivet, tributary, triptych, trident, triad",
+      "options": ["trivet", "tributary", "triptych", "trident", "triad"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 129,
+      "text": "What number should replace the question mark? ",
+      "options": ["9", "5", "7", "11"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "129.png",
+      "mandatory": false
+    },
+    {
+      "id": 130,
+      "text": "5862 is to 714 \nand 3498 is to 1113 \nand 9516 is to 156\n therefore 8257 is to ?",
+      "options": ["167", "157", "1715", "175"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 131,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "131.png",
+      "mandatory": false
+    },
+    {
+      "id": 132,
+      "text": "mohair is to wool as shantung is to: silk, cotton, linen, nylon, fabric",
+      "options": ["silk", "cotton", "linen", "nylon", "fabric"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 133,
+      "text": "Place the numbers 1- 6 into the circles, one number per circle, so that: the sum of the numbers 4 and 1, and all the numbers between them total 12; the sum of the numbers 4 and 6, and all the numbers between them total 21; the sum of the numbers 2 and 1, and all the numbers between them total 8. ",
+      "options": ["642315", "425136 ", "452136", "623154"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": "133.png",
+      "mandatory": false
+    },
+    {
+      "id": 134,
+      "text": "If meat in a river (3 in 6) is T(HAM)ES, can you find a monkey in a tall building (3 in 10)?",
+      "options": ["SKYSCRAPER", "TOWERBLOCK", "HIGHRISE", "LIGHTHOUSE"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 135,
+      "text": "What comes next in the above sequence? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 3,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "135.png",
+      "mandatory": false
+    },
+    {
+      "id": 136,
+      "text": "Which arc is missing? ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "136.png",
+      "mandatory": false
+    },
+    {
+      "id": 137,
+      "text": "Which four bits can be joined together to form two words that have opposite meanings? \nERT, UCE, DES, END, EXP, EAR, AND, SIP, RED, GOS",
+      "options": [
+        "DESERT, GOSSIP",
+        "EAREND, SIPRED",
+        "EXPAND, REDUCE",
+        "EXPUCE, REDAND"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 138,
+      "text": "Which is the missing section? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "138.png",
+      "mandatory": false
+    },
+    {
+      "id": 139,
+      "text": "Identify two words that sound alike but are spelled differently, which mean: a straight line connecting two points on a curve rope",
+      "options": ["CHORD, CORD", "ROAD, RODE", "STEAL, STEEL", "PAIR, PEAR"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 140,
+      "text": "Find the ages of Mary, George, Alice, Claire and Stephen if:\n Mary + George = 33 years between them\n Alice + Claire = 95 years between them\n Stephen + Mary = 72 years between them\n Mary + Claire = 87 years between them\n Stephen + George = 73 years between them",
+      "options": [
+        "MARY 18, GEORGE 15, ALICE 26, CLAIRE 69, STEPHEN 54",
+        "MARY 16, GEORGE 17, ALICE 24, CLAIRE 71, STEPHEN 56",
+        "MARY 17, GEORGE 16, ALICE 25, CLAIRE 70, STEPHEN 55",
+        "MARY 15, GEORGE 18, ALICE 23, CLAIRE 72, STEPHEN 57"
+      ],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 141,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "141.png",
+      "mandatory": false
+    },
+    {
+      "id": 142,
+      "text": "Using the four letters below only, create a seven- letter word.\n CILT",
+      "options": ["ILLICIT", "LITTLIC", "CITLILI", "TICLILL"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 143,
+      "text": "53 (3) 59\n 92 (4) 98\n 34 (2) 38\n 71 (?) 79 \nWhat number should replace the question mark?",
+      "options": ["8", "9", "7", "6"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 144,
+      "text": "Work clockwise round the circles to spell out two eight- letter words that are synonyms. Each word commences in a different circle, and you must find the starting point of each. Every letter is used once each and all letters are consecutive. ",
+      "options": [
+        "FOLLOWER, DISCIPLE",
+        "LEADER, TEACHER",
+        "STUDENT, PUPIL",
+        "MASTER, MENTORS"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "144.png",
+      "mandatory": false
+    },
+    {
+      "id": 145,
+      "text": "Draw the missing figure in the above sequence. ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "145.png",
+      "mandatory": false
+    },
+    {
+      "id": 146,
+      "text": "abashed, derail, little, ? \nWhat comes next?\n mellow, entail, leader, elicit, status",
+      "options": ["MELLOW", "ELICIT", "STATUS", "LEADER"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 147,
+      "text": "Produce an eight- letter word by joining together two of these four- letter sets. cred, agon, lues, once, deva, some, come, pent",
+      "options": ["CREDONCE", "DEVASOME", "PENTAGON", "COMELUES"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 148,
+      "text": "What number is three places away from itself plus three, two places away from itself multiplied by two, two places away from itself less four and two places away from itself divided by three? ",
+      "options": ["21", "9", "30", "12"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "148.png",
+      "mandatory": false
+    },
+    {
+      "id": 149,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "149.png",
+      "mandatory": false
+    },
+    {
+      "id": 150,
+      "text": "What percentage of the figure is shaded? ",
+      "options": ["50%", "62.5%", "75%", "37.5%"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "150.png",
+      "mandatory": false
+    },
+    {
+      "id": 151,
+      "text": "What letter is two letters away clockwise from the letter that is directly opposite the letter three letters away anticlockwise from the letter C? ",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "correct": 5,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "151.png",
+      "mandatory": false
+    },
+    {
+      "id": 152,
+      "text": "Spiral clockwise round the perimeter and finish at the centre square to spell out a nine- letter word. You must find the starting point and provide the missing letters. ",
+      "options": ["LIBERATE", "VIBRATED", "HIBERNATE", "ITERABLE"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "152.png",
+      "mandatory": false
+    },
+    {
+      "id": 153,
+      "text": "What is one- third of one- quarter of one- fifth of one- half of 120?",
+      "options": ["3", "2", "1", "5"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 154,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "154.png",
+      "mandatory": false
+    },
+    {
+      "id": 155,
+      "text": "What number should replace the question mark? ",
+      "options": ["42", "52", "45", "59"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "155.png",
+      "mandatory": false
+    },
+    {
+      "id": 156,
+      "text": "Which is the odd one out? ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "156.png",
+      "mandatory": false
+    },
+    {
+      "id": 157,
+      "text": "Which word in brackets is most opposite in meaning to the word in capitals? REVERENT ",
+      "options": ["candid", "lucid", "cheeky", "content", "culpable"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 158,
+      "text": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way. COCHLEA (shell, ear, brain) CEREBELLUM (heart, nose, brain)",
+      "options": [
+        "SHELL AND HEART",
+        "EAR AND BRAIN",
+        "BRAIN AND NOSE",
+        "EAR AND HEART"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 159,
+      "text": "Which number is the odd one out? \n3647 2536 5869 6957 1425 4758",
+      "options": ["3647", "2536", "5869", "6957", "1425", "4758"],
+      "correct": 3,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 160,
+      "text": "Read clockwise to find a 16- letter word. Only alternate letters have been shown, and you have to find the starting point. ",
+      "options": [
+        "ADMINISTRATION",
+        "CIRCUMNAVIGATION",
+        "DISCRIMINATION",
+        "COMMUNICATION"
+      ],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "160.png",
+      "mandatory": false
+    },
+    {
+      "id": 161,
+      "text": "How many lines appear below? ",
+      "options": ["10", "11", "12", "13", "14"],
+      "correct": 2,
+      "dimension": "Perceptual Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.55,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.03
+      },
+      "image": "161.png",
+      "mandatory": false
+    },
+    {
+      "id": 162,
+      "text": "0, 1, 2, 5, 20, 25, ?? \nWhat two numbers should replace the question marks?",
+      "options": ["150, 157", "125, 132", "130, 137", "145, 152"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 163,
+      "text": "Which is the odd one out? ",
+      "options": ["exacerbate", "alleviate", "amplify", "escalate", "inflate"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 164,
+      "text": "What number should replace the question mark? ",
+      "options": ["6", "4", "5", "7"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "164.png",
+      "mandatory": false
+    },
+    {
+      "id": 165,
+      "text": "The name of which creature can be placed on the bottom row to complete seven three- letter words reading downwards? ",
+      "options": ["HAMSTER", "BUFFALO", "OCTOPUS", "GAZELLES"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": "165.png",
+      "mandatory": false
+    },
+    {
+      "id": 166,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "166.png",
+      "mandatory": false
+    },
+    {
+      "id": 167,
+      "text": "What number should replace the question mark? ",
+      "options": ["9", "7", "8", "6"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "167.png",
+      "mandatory": false
+    },
+    {
+      "id": 168,
+      "text": "Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine- letter word. You must provide the missing letters. ",
+      "options": ["MAGNETISM", "MEANTIMER", "MENTALISM", "MAGNITUDE"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "168.png",
+      "mandatory": false
+    },
+    {
+      "id": 169,
+      "text": "In eight years time the combined age of me and my two sons will be 124. What will it be in five years time?",
+      "options": ["121", "115", "109", "118"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 170,
+      "text": "Which two words are closest in meaning? old, stiff, ripe, pure, uniform, mellow",
+      "options": [
+        "OLD AND STIFF",
+        "PURE AND UNIFORM",
+        "RIPE AND MELLOW",
+        "STIFF AND PURE"
+      ],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 171,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "171.png",
+      "mandatory": false
+    },
+    {
+      "id": 172,
+      "text": "abyss is to chasm as fissure is to: crevice, recess, gorge, canyon, opening",
+      "options": ["crevice", "recess", "gorge", "canyon", "opening"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 173,
+      "text": "Jack is twice as old as Jill, but in five years time he will only be one and a half times as old. How old are Jack and Jill now?",
+      "options": [
+        "JACK 8, JILL 4",
+        "JACK 10, JILL 5",
+        "JACK 12, JILL 6",
+        "JACK 14, JILL 7"
+      ],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 174,
+      "text": "Change one letter only in each of the words below to produce a familiar phrase: HOME SO LINE",
+      "options": [
+        "COME TO MIND",
+        "CAME TO LIFE",
+        "COME TO LIFE",
+        "COME TO LIKE"
+      ],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 175,
+      "text": "Draw the missing figure in the above sequence. ",
+      "options": [
+        "HORIZONTALLY STRIPED TRIANGLE",
+        "VERTICALLY STRIPED CIRCLE",
+        "HORIZONTALLY STRIPED DIAMOND",
+        "VERTICALLY STRIPED TRIANGLE"
+      ],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "175.png",
+      "mandatory": false
+    },
+    {
+      "id": 176,
+      "text": "1000, 865, ?, 595, 460, 325 What number should replace the question mark?",
+      "options": ["735", "725", "730", "740"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 177,
+      "text": "Which shield below has most in common with the shield above? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "177.png",
+      "mandatory": false
+    },
+    {
+      "id": 178,
+      "text": "Identify two words that sound alike, but are spelled differently, which mean: potency small insect",
+      "options": ["MAIN, MANE", "MIGHT, MITE", "WEAK, WEEK", "SALE, SAIL"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 179,
+      "text": "Multiply the lowest even number in the grid by the highest odd number. ",
+      "options": ["3024", "2520", "3402", "2646"],
+      "correct": 3,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "179.png",
+      "mandatory": false
+    },
+    {
+      "id": 180,
+      "text": "What is the meaning of laconic? dull, uninspiring tearful using few words emotionally unstable sarcastic",
+      "options": [
+        "dull",
+        "uninspiring",
+        "tearful",
+        "using few words",
+        "emotionally unstable",
+        "sarcastic"
+      ],
+      "correct": 3,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 181,
+      "text": "Work clockwise round each circle to spell out two eight- letter words that are synonymous. You have to find the starting points and provide the missing letters. ",
+      "options": [
+        "SEPARATE, TOGETHER",
+        "STRAIGHT, DIRECTLY",
+        "SATURATE, WATERLOG",
+        "SATURATE, TOLERATE"
+      ],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "181.png",
+      "mandatory": false
+    },
+    {
+      "id": 182,
+      "text": "17,4,29,13,41,22,53,31,7 What number should replace the question mark? ",
+      "options": ["61", "69", "65", "67"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "182.png",
+      "mandatory": false
+    },
+    {
+      "id": 183,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "183.png",
+      "mandatory": false
+    },
+    {
+      "id": 184,
+      "text": "Spiral clockwise round the perimeter and finish at the centre square to spell out a nine- letter word. You must find the starting point and provide the missing letters. ",
+      "options": ["EMOTIONAL", "MOTIONED", "TESTIMONY", "MONETIZED"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "184.png",
+      "mandatory": false
+    },
+    {
+      "id": 185,
+      "text": "What number should replace the question mark? ",
+      "options": ["9", "6", "7", "5"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "185.png",
+      "mandatory": false
+    },
+    {
+      "id": 186,
+      "text": "To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon above? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "186.png",
+      "mandatory": false
+    },
+    {
+      "id": 187,
+      "text": "Three teams, from England, Scotland and Wales, are competing for two trophies, one for golf and one for tennis. How many different outcomes of the two competitions exist? 6,8,9 or 12? ",
+      "options": ["6", "8", "9", "12"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": "187.png",
+      "mandatory": false
+    },
+    {
+      "id": 188,
+      "text": "Which is the odd one out? statement, fluster, retirement, restful, testament",
+      "options": ["statement", "fluster", "retirement", "restful", "testament"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 189,
+      "text": "Switch A turns lights 1 and 2 on/off or off/on \nSwitch B turns lights 2 and 4 on/off or off/on\n Switch C turns lights 1 and 3 on/off or off/on \nSwitch D turns lights 3 and 4 on/off or off/on. Switches B, D, A and C are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? ",
+      "options": ["SWITCH B", "SWITCH D", "SWITCH A", "SWITCH C"],
+      "correct": 2,
+      "dimension": "Logical Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "189.png",
+      "mandatory": false
+    },
+    {
+      "id": 190,
+      "text": "What number should replace the question mark? ",
+      "options": ["2", "7", "9", "6"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "190.png",
+      "mandatory": false
+    },
+    {
+      "id": 191,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "191.png",
+      "mandatory": false
+    },
+    {
+      "id": 192,
+      "text": "Find two words (7, 4) in this diagram. Letters are traced across the circle by chords. If the next letter is four letters or less away, it will be found by tracing around the circumference. Clue: may be difficult to swim over. ",
+      "options": ["CORAL SEA", "BARRIER REEF", "ROCKY SHORE", "DEEP WATER"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "192.png",
+      "mandatory": false
+    },
+    {
+      "id": 193,
+      "text": "What letter is immediately to the left of the letter that is immediately below the letter two to the left of the letter I?",
+      "options": ["M", "K", "J", "L"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "193.png",
+      "mandatory": false
+    },
+    {
+      "id": 194,
+      "text": "Which number is the odd one out? \n3861 8712 5247 4356 1485 3645",
+      "options": ["3861", "8712", "5247", "4356", "1485", "3645"],
+      "correct": 5,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 195,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "195.png",
+      "mandatory": false
+    },
+    {
+      "id": 196,
+      "text": "Each square contains the letters of a nine- letter word. Find the two words that are similar in meaning. ",
+      "options": [
+        "COLLATED, CAREFULLY",
+        "ISOLATED, CULTIVATE",
+        "OSCILLATE, FLUCTUATE",
+        "CALLOUSED, FEATURED"
+      ],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "196.png",
+      "mandatory": false
+    },
+    {
+      "id": 197,
+      "text": "1, 3, 4, 7, 11, 18, 29, ? What number should replace the question mark?",
+      "options": ["40", "47", "58", "45"],
+      "correct": 1,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 198,
+      "text": "Which four bits can be joined together to form two words that have opposite meanings? ant, ert, uce, ire, ill, and, red, tic, exp",
+      "options": [
+        "ANTIC, IREILL",
+        "EXPERT, REDAND",
+        "EXPAND, REDUCE",
+        "ANTAND, UCEIRE"
+      ],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 199,
+      "text": "When the above is folded to form a cube, which is the only one of the following that can be produced? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "199.png",
+      "mandatory": false
+    },
+    {
+      "id": 200,
+      "text": "blanch is to boil as saute is to: simmer, fry, soak, roast, garnish",
+      "options": ["simmer", "fry", "soak", "roast", "garnish"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 201,
+      "text": "In a game of eight players lasting for 70 minutes, six substitutes alternate with each player. This means that all players, including the substitutes, are on the pitch for the same length of time. For how long?",
+      "options": [
+        "40 minutes",
+        "35 minutes",
+        "45 minutes",
+        "30 minutes",
+        "50 minutes"
+      ],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 202,
+      "text": "If 2 = H are BTO is two heads are better than one, what is the meaning of 2 = S to ES?",
+      "options": [
+        "two sides of every story",
+        "two ships to every sea",
+        "two stars to every sky",
+        "two souls to every body"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 203,
+      "text": "Which three of the four pieces below can be fitted together to form a perfect square? ",
+      "options": ["A, B, C", "C, B, D", "A, C, D", "B, C, D"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "203.png",
+      "mandatory": false
+    },
+    {
+      "id": 204,
+      "text": "Which is the odd one out? parabolic, lancet, abutment, trefoil, ogee",
+      "options": ["parabolic", "lancet", "abutment", "trefoil", "ogee"],
+      "correct": 2,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 205,
+      "text": "Look at lines both across and down and work out which number should replace the question mark. ",
+      "options": ["4", "5", "6", "7", "8"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "205.png",
+      "mandatory": false
+    },
+    {
+      "id": 206,
+      "text": "What letter is directly opposite the letter two places anticlockwise away from the letter directly opposite the letter H? ",
+      "options": ["F", "G", "H", "I", "J"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "206.png",
+      "mandatory": false
+    },
+    {
+      "id": 207,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "207.png",
+      "mandatory": false
+    },
+    {
+      "id": 208,
+      "text": "Change one letter only in each of the words below to produce a familiar phrase: SO LID ON WANT",
+      "options": [
+        "TO LIE IN WAIT",
+        "SO LID ON WANT",
+        "TO LID IN WAIT",
+        "SO LIE ON WANT"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 209,
+      "text": "Insert the numbers 1-5 in the circles so that for any particular circle the sum of the numbers in the circles connected directly to it equals the value corresponding to the number in that circle as given in the list. ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": "209.png",
+      "mandatory": false
+    },
+    {
+      "id": 210,
+      "text": "Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine- letter word. You must provide the missing letters. ",
+      "options": ["PANORAMIC", "PANCREAS", "PANDEMIC", "PANTOMIME"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "210.png",
+      "mandatory": false
+    },
+    {
+      "id": 211,
+      "text": "Which circle should replace the question mark? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "211.png",
+      "mandatory": false
+    },
+    {
+      "id": 212,
+      "text": "Find two eight- letter words reading clockwise in each circle. The words are antonyms. You have to find the starting point of each word, and provide the missing letter. ",
+      "options": [
+        "SUCCINCT, RAMBLING",
+        "SUCCESS, FAILING",
+        "PROPER, COMMON",
+        "HONEST, LYING"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "212.png",
+      "mandatory": false
+    },
+    {
+      "id": 213,
+      "text": "Which of the following is not an anagram of a type of building? delta arch raiment cleats the Arctic a blowgun",
+      "options": ["delta arch", "raiment", "cleats", "the Arctic", "a blowgun"],
+      "correct": 3,
+      "dimension": "Language Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 214,
+      "text": "If five men can build a house in 16 days, how long will it take just two men to build the same house, assuming all men work at the same rate?",
+      "options": ["40 days", "32 days", "48 days", "36 days", "44 days"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 215,
+      "text": "Which circle should replace the question mark? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "215.png",
+      "mandatory": false
+    },
+    {
+      "id": 216,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "216.png",
+      "mandatory": false
+    },
+    {
+      "id": 217,
+      "text": "Change one letter only in each word to produce a familiar phrase: cone do line",
+      "options": [
+        "come to life",
+        "cone do line",
+        "come do life",
+        "cone to line"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 218,
+      "text": "IQS: LNV\n JRM: ?\n LOP, MOP, LIP, MOW or KIP?",
+      "options": ["LOP", "MOP", "LIP", "MOW", "KIP"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 219,
+      "text": "742 (8710) 138 395 (12167) 972 819 (?) 356 What number should replace the question mark?",
+      "options": ["11615", "11625", "11715", "11605", "11725"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 220,
+      "text": "FAIRER BEETLE is an anagram of which two words that are similar in meaning?",
+      "options": [
+        "FREE, LIBERATE",
+        "FAIR, BETTER",
+        "BEETLE, FAIRER",
+        "FREE, BETTER"
+      ],
+      "correct": 0,
+      "dimension": "Language Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 221,
+      "text": "Which hexagon below has most in common with the hexagon above? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "221.png",
+      "mandatory": false
+    },
+    {
+      "id": 222,
+      "text": "Identify two words that sound alike but are spelled differently, which mean: regrets artifice",
+      "options": ["rues/ruse", "roads/rods", "reeds/reads", "rows/rose"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 223,
+      "text": "Simplify: As the lowest fraction. ",
+      "options": ["18/34", "3/2", "6/17", "9/17"],
+      "correct": 3,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "223.png",
+      "mandatory": false
+    },
+    {
+      "id": 224,
+      "text": "ABCDEFGHIJKLMNOPQRSTUVWXY What letter is two letters to the right of the letter two letters above the letter four letters to the left of the letter Z?",
+      "options": ["O", "N", "P", "Q", "R"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 225,
+      "text": "Draw the missing figure in the above sequence. ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "225.png",
+      "mandatory": false
+    },
+    {
+      "id": 226,
+      "text": "What number should replace the question mark? ",
+      "options": ["5", "7", "6", "9"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "226.png",
+      "mandatory": false
+    },
+    {
+      "id": 227,
+      "text": "night long boat house? \nWhat comes next? \ncalm, hold, panic, wind, post",
+      "options": ["calm", "hold", "panic", "wind", "post"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 228,
+      "text": "rifle is to firearm as cutlass is to: blade, sword, weapon, steel, sever",
+      "options": ["blade", "sword", "weapon", "steel", "sever"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 229,
+      "text": "What number should replace the question mark? ",
+      "options": ["15", "27", "32", "49"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "229.png",
+      "mandatory": false
+    },
+    {
+      "id": 230,
+      "text": "Which is the missing section? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "230.png",
+      "mandatory": false
+    },
+    {
+      "id": 231,
+      "text": "7 4 2 6 3 5 8 1 9 What is the difference between the average of the numbers above and the second lowest even number?",
+      "options": ["1", "2", "3", "4", "5"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 232,
+      "text": "How much does a bag of flour weigh if it weighs 1 kilogram plus the weight of half the bag of flour?",
+      "options": ["2 kg", "1.5 kg", "2.5 kg", "3 kg", "1 kg"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 233,
+      "text": "Fill in the missing letters to find two types of tree: \\*U\\*A\\*Y\\*\\*\\*\\* \\*A\\*D\\*L\\*O\\*\\*",
+      "options": [
+        "EUCALYPTUS, SANDALWOOD",
+        "WILLOW, CHESTNUT",
+        "SYCAMORE, BLACKTHORN",
+        "HAWTHORN, SILVERBIRCH"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 234,
+      "text": "What number should replace the question mark? ",
+      "options": ["2", "7", "5", "1"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "234.png",
+      "mandatory": false
+    },
+    {
+      "id": 235,
+      "text": "Which is missing? ",
+      "options": ["A", "B", "C"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "235.png",
+      "mandatory": false
+    },
+    {
+      "id": 236,
+      "text": "Check the image ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "236.png",
+      "mandatory": false
+    },
+    {
+      "id": 237,
+      "text": "Which piece below, when fitted into the piece on the left,will form a perfect square?",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "237.png",
+      "mandatory": false
+    },
+    {
+      "id": 238,
+      "text": "Which is the odd one out? banner, staff, pennant, streamer, oriflamme",
+      "options": ["banner", "staff", "pennant", "streamer", "oriflamme"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 239,
+      "text": "Peter, Paul and Mary share out a certain sum of money between them. Peter gets 2/5, Paul gets 0.55 and Mary gets £45.00. How much is the original sum of money?",
+      "options": ["£900", "£800", "£750", "£850", "£950"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 240,
+      "text": "When the above is folded to form a cube, which is the only one of the following that can be produced? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "240.png",
+      "mandatory": false
+    },
+    {
+      "id": 241,
+      "text": "Which word in brackets is closest in meaning to the word in capitals? \nINTRINSIC (precursory, interfering, obstinate, elemental, fascinating)",
+      "options": [
+        "precursory",
+        "interfering",
+        "obstinate",
+        "elemental",
+        "fascinating"
+      ],
+      "correct": 3,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 242,
+      "text": "Place a four- letter word inside the brackets that will complete a word or phrase when tacked onto the word on the left, and will form another word or phrase when placed in front of the word on the right. HEAD (****) LASS",
+      "options": ["WIND", "WORK", "WISE", "WARD", "WILD"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 243,
+      "text": "What number should replace the question mark? ",
+      "options": ["1", "8", "9", "6"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "243.png",
+      "mandatory": false
+    },
+    {
+      "id": 244,
+      "text": "Find the starting point and visit every square once each to finish at the treasure marked T. 1N 2W means 1 North, 2 West. ",
+      "options": [
+        "5 3 7 / 8 6 2 / 1 9 4",
+        "7 5 3 / 2 8 6 / 4 1 9",
+        "3 7 5 / 6 2 8 / 9 4 1",
+        "8 6 2 / 5 3 7 / 1 9 4"
+      ],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "244.png",
+      "mandatory": false
+    },
+    {
+      "id": 245,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "245.png",
+      "mandatory": false
+    },
+    {
+      "id": 246,
+      "text": "Which is the missing section? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "246.png",
+      "mandatory": false
+    },
+    {
+      "id": 247,
+      "text": "Which two words are most opposite in meaning?\n lucrative, proficient, decorous, unskilled, unusual, industrious",
+      "options": [
+        "proficient, unskilled",
+        "lucrative, unusual",
+        "decorous, industrious",
+        "proficient, industrious"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 248,
+      "text": "Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way.\n EMBARK (sail, venture, develop) \nINAUGURATE (speech, invent, introduce)",
+      "options": [
+        "venture, introduce",
+        "sail, speech",
+        "develop, invent",
+        "venture, invent"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 249,
+      "text": "Which number is the odd one out?\n 571219\n 461016\n 831114\n 461016\n 971613\n 781523",
+      "options": ["571219", "461016", "831114", "971613", "781523"],
+      "correct": 3,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 250,
+      "text": "The following clue leads to which pair of rhyming words? \n yank yarn",
+      "options": [
+        "pull wool",
+        "pull yarn",
+        "yank wool",
+        "tug wool",
+        "pull thread"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 251,
+      "text": "What comes next in the above sequence? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "251.png",
+      "mandatory": false
+    },
+    {
+      "id": 252,
+      "text": "100, 97.25, 91.75, 83.5, ? What number should replace the question mark?",
+      "options": ["72.5", "73.5", "74.5", "71.5", "75.5"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 253,
+      "text": "dentiform is to tooth as dendriform is to: triangle, tree, doughnut, arch, foot",
+      "options": ["triangle", "tree", "doughnut", "arch", "foot"],
+      "correct": 1,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 254,
+      "text": "The average of three numbers is 48. The average of two of these numbers is 56. What is the third number?",
+      "options": ["32", "34", "36", "38", "40"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 255,
+      "text": "Arrange the three- letter bits below into the correct order to spell out a familiar saying: nwo ion der tha eak rds lou ssp act",
+      "options": [
+        "actions speak louder than words",
+        "actions speak louder than words",
+        "actions speak louder than words",
+        "actions speak louder than words"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 256,
+      "text": "How many different sized circles appear below? ",
+      "options": ["6", "7", "8", "9", "10"],
+      "correct": 0,
+      "dimension": "Perceptual Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.55,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.03
+      },
+      "image": "256.png",
+      "mandatory": false
+    },
+    {
+      "id": 257,
+      "text": "What is the longest word in the English language that can be produced from the set of letters below? Letters may only be used once in the word produced. MEOIALJTBG",
+      "options": ["OBLIGATE", "OBLIGING", "BLOATING", "MEGABIT"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 258,
+      "text": "The letters below represent a phrase where the initial letters of each word and the spaces have been removed. What is the phrase? USHHEOATUT",
+      "options": [
+        "PUSH THE BOAT OUT",
+        "PUSH THE BOAT OUT",
+        "PUSH THE BOAT OUT",
+        "PUSH THE BOAT OUT"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 259,
+      "text": "What comes next? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "259.png",
+      "mandatory": false
+    },
+    {
+      "id": 260,
+      "text": "71, 81, 74, 77, 77, 73, 80, 69, ? What number should replace the question mark?",
+      "options": ["83", "84", "85", "86", "87"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 261,
+      "text": "Place a word in the bracket that forms a new word or phrase when tacked onto the word on the left, and another word or phrase when placed in front of the word on the right. home( ) fast",
+      "options": ["stead", "made", "land", "free"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 262,
+      "text": "Insert the remaining numbers below into the grid so that each line across and down totals 21. ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "262.png",
+      "mandatory": false
+    },
+    {
+      "id": 263,
+      "text": "Find the starting point and work anticlockwise round each circle to find two types of creature, each eight letters long. You have to provide the missing letters. ",
+      "options": [
+        "DORMOUSE, SQUIRREL",
+        "DORMOUSE, SQUIRREL",
+        "DORMOUSE, SQUIRREL",
+        "DORMOUSE, SQUIRREL"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "263.png",
+      "mandatory": false
+    },
+    {
+      "id": 264,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 5,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "264.png",
+      "mandatory": false
+    },
+    {
+      "id": 265,
+      "text": "Move from star to star along connecting lines to spell out a 10- letter word. All letters are used once each only. ",
+      "options": ["EVIDENTIAL", "EVIDENCE", "EVIDENTLY", "EVIDENT"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": "265.png",
+      "mandatory": false
+    },
+    {
+      "id": 266,
+      "text": "What number should replace the question mark? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "266.png",
+      "mandatory": false
+    },
+    {
+      "id": 267,
+      "text": "Which is missing? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "267.png",
+      "mandatory": false
+    },
+    {
+      "id": 268,
+      "text": "What letter is directly opposite the letter that is two letters away clockwise from the letter that is directly opposite the letter that is three letters away anticlockwise from the letter E? ",
+      "options": ["D", "E", "F", "G", "H"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "268.png",
+      "mandatory": false
+    },
+    {
+      "id": 269,
+      "text": "In 13 years time the combined ages of my three brothers will be 94. What will it be in nine years time?",
+      "options": ["82", "83", "84", "85", "86"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 270,
+      "text": "Find two words, one reading clockwise round the outer circle, and one reading anticlockwise round the inner circle, which are opposite in meaning. You must provide the missing letters. ",
+      "options": [
+        "ASSEMBLE, DISPERSE",
+        "ASSEMBLE, DISPERSE",
+        "ASSEMBLE, DISPERSE",
+        "ASSEMBLE, DISPERSE"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "270.png",
+      "mandatory": false
+    },
+    {
+      "id": 271,
+      "text": "What numbers should replace the question marks? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "271.png",
+      "mandatory": false
+    },
+    {
+      "id": 272,
+      "text": "Which shield below has most in common with the shield above? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "272.png",
+      "mandatory": false
+    },
+    {
+      "id": 273,
+      "text": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on Switch D turns lights 3 and 4 on/off or off/on. Switches C, A, D and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Logical Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "273.png",
+      "mandatory": false
+    },
+    {
+      "id": 274,
+      "text": "Each square contains the letters of a nine- letter word. Find the two nine- letter words that are antonyms. ",
+      "options": [
+        "PALATABLE, TASTELESS",
+        "PALATABLE, TASTELESS",
+        "PALATABLE, TASTELESS",
+        "PALATABLE, TASTELESS"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "274.png",
+      "mandatory": false
+    },
+    {
+      "id": 275,
+      "text": "What number should replace the question mark? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "275.png",
+      "mandatory": false
+    },
+    {
+      "id": 276,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 4,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "276.png",
+      "mandatory": false
+    },
+    {
+      "id": 277,
+      "text": "0,1,3,6,7,9,12,13,15,18,?,?,? What numbers should replace the question marks?",
+      "options": ["19,21,24", "19,22,24", "20,21,24", "19,21,25", "20,22,24"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.55,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 278,
+      "text": "Find two words that differ only by the omission of a single letter (for example, place/pace), in answer to the following clue: bowl- shaped cavity/provide food",
+      "options": [
+        "crater/cater",
+        "crater/cater",
+        "crater/cater",
+        "crater/cater"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 279,
+      "text": "What number in the grid is three places away from itself less two, two places away from itself divided by two, three places away from itself less five and three places away from itself multiplied by three? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "279.png",
+      "mandatory": false
+    },
+    {
+      "id": 280,
+      "text": "Which is the missing section? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 1,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "280.png",
+      "mandatory": false
+    },
+    {
+      "id": 281,
+      "text": "To which of the squares below can a dot be added so that the dot then meets the same conditions as the dot in the square above? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "281.png",
+      "mandatory": false
+    },
+    {
+      "id": 282,
+      "text": "Complete the following to create a palindromic phrase, ie one that reads the same forwards and backwards, such as Madam I'm Adam. \\*U\\*\\*L\\*\\*\\*\\*p\\*\\* Clue: scholarly errors!",
+      "options": [
+        "PUPILS SLIP UP",
+        "PUPILS SLIP UP",
+        "PUPILS SLIP UP",
+        "PUPILS SLIP UP"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 283,
+      "text": "83 64 45 ？？ 96 65 34 ？？ What numbers should replace the question marks? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "283.png",
+      "mandatory": false
+    },
+    {
+      "id": 284,
+      "text": "Draw the missing figure in the above sequence. ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "284.png",
+      "mandatory": false
+    },
+    {
+      "id": 285,
+      "text": "Which is the odd one out? sow, bull, buck, boar, stallion",
+      "options": ["sow", "bull", "buck", "boar", "stallion"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 286,
+      "text": "The ages of five family members total 107 between them. The ages of Margaret and Stuart total 29 between them. The ages of Stuart and Jeffrey total 44 between them. The ages of Jeffrey and Brian total 57 between them. The ages of Brian and Philip total 46 between them. How old is each family member?",
+      "options": [
+        "Margaret 17, Stuart 12, Jeffrey 32, Brian 25, Philip 21",
+        "Margaret 17, Stuart 12, Jeffrey 32, Brian 25, Philip 21",
+        "Margaret 17, Stuart 12, Jeffrey 32, Brian 25, Philip 21",
+        "Margaret 17, Stuart 12, Jeffrey 32, Brian 25, Philip 21"
+      ],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 287,
+      "text": "IVY CITRATE is an anagram of which two 10- letter words in the English language?",
+      "options": [
+        "CREATIVITY, REACTIVITY",
+        "CREATIVITY, REACTIVITY",
+        "CREATIVITY, REACTIVITY",
+        "CREATIVITY, REACTIVITY"
+      ],
+      "correct": 0,
+      "dimension": "Language Aptitude",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 288,
+      "text": "Looking at lines across and down, if the first two tiles are combined to produce the third tile, with the exception that like symbols are cancelled out, which of the above tiles is incorrect, and with which of the tiles below should it be replaced? ",
+      "options": ["A", "B", "C", "D", "E"],
+      "correct": 1,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.55,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "288.png",
+      "mandatory": false
+    },
+    {
+      "id": 289,
+      "text": "Which two words are most opposite in meaning? watertight, humid, tractable, opulent, portentous, tenuous",
+      "options": [
+        "watertight, tenuous",
+        "humid, opulent",
+        "tractable, portentous",
+        "watertight, humid"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 290,
+      "text": "What number should replace the question mark? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.65,
+        "9": 0.45,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "290.png",
+      "mandatory": false
+    },
+    {
+      "id": 291,
+      "text": "Add three consecutive letters of the alphabet to the group of letters below, without splitting the consecutive letters of the alphabet, to form another word. GERE",
+      "options": ["GESTURE", "GENERATE", "GENERAL", "GENTLE"],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.75,
+        "9": 0.55,
+        "10": 0.35,
+        "11": 0.2,
+        "12": 0.08
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 292,
+      "text": "When the above is folded to form a cube, which is the only one of the following that can be produced? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 0,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "292.png",
+      "mandatory": false
+    },
+    {
+      "id": 293,
+      "text": "closed is to shut as open is to: obscure, visible, field, overt, wide",
+      "options": ["obscure", "visible", "field", "overt", "wide"],
+      "correct": 3,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 8",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 294,
+      "text": "Harry is one and a third as old as Larry and Larry is one and a third as old as Carrie. Together their ages total 74. How old are Larry, Harry and Carrie?",
+      "options": [
+        "Harry 32, Larry 24, Carrie 18",
+        "Harry 30, Larry 22, Carrie 16",
+        "Harry 34, Larry 26, Carrie 20",
+        "Harry 28, Larry 20, Carrie 14"
+      ],
+      "correct": 0,
+      "dimension": "Numerical Aptitude",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.8,
+        "9": 0.6,
+        "10": 0.4,
+        "11": 0.25,
+        "12": 0.1
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 295,
+      "text": "Which two words are closest in meaning? salubrious, healthy, identical, conspicuous, devout, bleak",
+      "options": [
+        "salubrious, healthy",
+        "identical, conspicuous",
+        "devout, bleak",
+        "healthy, identical"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 10",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": false,
+      "mandatory": false
+    },
+    {
+      "id": 296,
+      "text": "is to: as: is to: ",
+      "options": ["A", "B", "C", "D", "E", "F"],
+      "correct": 5,
+      "dimension": "Abstract Reasoning",
+      "concept-taught": "Class 7",
+      "difficulty": {
+        "8": 0.5,
+        "9": 0.35,
+        "10": 0.2,
+        "11": 0.1,
+        "12": 0.04
+      },
+      "image": "296.png",
+      "mandatory": false
+    },
+    {
+      "id": 297,
+      "text": "Which is the missing tile? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 3,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "297.png",
+      "mandatory": false
+    },
+    {
+      "id": 298,
+      "text": "Find two words, both reading clockwise round each circle. You must find the starting point of each word and provide the missing letters. The two words form a phrase. ",
+      "options": [
+        "ABSOLUTE MAJORITY",
+        "ABSOLUTE MAJORITY",
+        "ABSOLUTE MAJORITY",
+        "ABSOLUTE MAJORITY"
+      ],
+      "correct": 0,
+      "dimension": "Verbal Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.85,
+        "9": 0.7,
+        "10": 0.5,
+        "11": 0.3,
+        "12": 0.15
+      },
+      "image": "298.png",
+      "mandatory": false
+    },
+    {
+      "id": 299,
+      "text": "Switch A turns lights 1 and 2 on/off or off/on Switch B turns lights 2 and 4 on/off or off/on Switch C turns lights 1 and 3 on/off or off/on Switch D turns lights 3 and 4 on/off or off/on. Switches A, C, D and B are thrown in turn with the result that Figure 1 turns into Figure 2. Which switch does not work at all? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Logical Reasoning",
+      "concept-taught": "Class 9",
+      "difficulty": {
+        "8": 0.7,
+        "9": 0.5,
+        "10": 0.3,
+        "11": 0.15,
+        "12": 0.05
+      },
+      "image": "299.png",
+      "mandatory": false
+    },
+    {
+      "id": 300,
+      "text": "Which is missing? ",
+      "options": ["A", "B", "C", "D"],
+      "correct": 2,
+      "dimension": "Spatial Aptitude",
+      "concept-taught": "Class 6",
+      "difficulty": {
+        "8": 0.6,
+        "9": 0.4,
+        "10": 0.25,
+        "11": 0.12,
+        "12": 0.04
+      },
+      "image": "300.png",
+      "mandatory": false
+    }
+  ]
+}
